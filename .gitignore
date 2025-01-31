@@ -1,3 +1,4 @@
 discord-message-cli
 discord-message-cli.exe
 *.test
+*.json
