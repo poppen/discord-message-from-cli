@@ -2,3 +2,5 @@ discord-message-cli
 discord-message-cli.exe
 *.test
 *.json
+# Added by goreleaser init:
+dist/
